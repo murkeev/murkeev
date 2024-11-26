@@ -10,4 +10,4 @@
 
 - 🌱 I am looking for job opportunities as a junior Java developer.
 
-- 📫 How to reach me: [disamurkeev@gmail.com](mailto:disamurkeev@gmail.com) | [LinkedIn](https://www.linkedin.com/in/denys-malakhov-5896b3266) | [Telegram](https://t.me/murkeev)
+- 📫 How to reach me: [denys.malakhov.dev@gmail.com](mailto:denys.malakhov.dev@gmail.com) | [LinkedIn](https://www.linkedin.com/in/murkeev/) | [Telegram](https://t.me/murkeev)
