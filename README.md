@@ -4,7 +4,7 @@
 
 ## 🔥 Hi there
 
-- 💻 **Stack**: Java 21, Spring (Boot, Data JPA, Security, MVC, Cloud), Hibernate, PostgreSQL/MySQL/MongoDB/Redis, JDBC, Docker, AWS, Swagger, JUnit 5, Mockito, SOLID, Design Patterns, Postman, Maven, Gradle, Git, Linux.
+- 💻 **Stack**: Java 21, Spring (Boot, Data JPA, Security), Hibernate, PostgreSQL/MySQL/MongoDB/Redis, JDBC, Swagger, JUnit 5, Mockito, Postman, Maven, Gradle, Git.
 
 - 📍 I’m from Dnipro.
 
